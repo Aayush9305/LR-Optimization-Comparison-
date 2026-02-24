@@ -1,7 +1,7 @@
 # 🚀 LR-Optimization-Comparison: First vs Second-Order Methods for Linear Regression
 
-[![Stars](https://img.shields.io/github/stars/YOURUSERNAME/LR-Optimization-Comparison)](https://github.com/YOURUSERNAME/LR-Optimization-Comparison)
-[![Forks](https://img.shields.io/github/forks/YOURUSERNAME/LR-Optimization-Comparison)](https://github.com/YOURUSERNAME/LR-Optimization-Comparison)
+[![Stars](https://img.shields.io/github/stars/Aayush9305/LR-Optimization-Comparison)](https://github.com/Aayush9305/LR-Optimization-Comparison)
+[![Forks](https://img.shields.io/github/forks/Aayush9305/LR-Optimization-Comparison)](https://github.com/Aayush9305/LR-Optimization-Comparison)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Paper](https://img.shields.io/badge/Paper-Research-red)](https://your-paper-link)
 
@@ -26,7 +26,7 @@
 
 ## 🚀 Get Started
 ```bash
-git clone https://github.com/YOURUSERNAME/LR-Optimization-Comparison.git
+git clone https://github.com/Aayush9305/LR-Optimization-Comparison.git
 cd LR-Optimization-Comparison
 pip install -r requirements.txt
 jupyter notebook notebooks/03_Experiments.ipynb
